@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Privacy Policy	</title>
-	<atom:link href="/site-pages/privacy-policy-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/site-pages/privacy-policy-2/</link>
+	Comments on: Sample Page	</title>
+	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/sample-page/</link>
 	<description></description>
-	<lastBuildDate>Sat, 17 Feb 2024 11:28:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Mar 2024 11:18:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
