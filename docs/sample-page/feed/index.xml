@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/endvor/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/endvor/sample-page/</link>
+	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/sample-page/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Mar 2024 11:18:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
